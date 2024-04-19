@@ -1,3 +1,4 @@
 python-dotenv
 dateparser
-prometheus-pandas 
+prometheus-pandas
+plotly
